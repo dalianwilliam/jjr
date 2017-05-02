@@ -6,9 +6,6 @@
 	<?php require("lib/public_huiyuan.php");
 		public_huiyuan::myhuiyuan();
 	?>
-    <!--<div class="dh"><i class="icon-shopping-cart"></i><a href='###'> CART</a></div>
-    <div class="dh"><i class="icon-list-ol"></i><a href='###'> ORDER</a></div>
-    <div class="dh"><i class="icon-paste"></i><a href='###'> MYPAGE</a></div>-->
     
 	<div class="dh"><div class="xiana"> </div></div>
     <?php public_huiyuan::mycpdh();?>
